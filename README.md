@@ -32,9 +32,7 @@ The dataset used is `Real estate.csv`, which contains 414 entries with the follo
    - Visualize the regression line overlaid on a scatter plot of the data.
 
 ## Results
-The regression analysis revealed a negative relationship between distance to the nearest MRT station and house price per unit area:
-- **Regression Equation**:  
-  \( \text{Price} = -0.0073 \times \text{Distance} + 45.8514 \)
+- The regression analysis revealed a negative relationship between distance to the nearest MRT station and house price per unit area.
 - As distance to the MRT station increases, house price per unit area tends to decrease.
 
 ## Visualizations
@@ -46,7 +44,5 @@ The regression analysis revealed a negative relationship between distance to the
 - Pandas
 - NumPy
 - Matplotlib
-
-
 - SciPy
 
